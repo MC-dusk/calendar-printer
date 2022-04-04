@@ -1,5 +1,5 @@
-# 日历打印器 v3.0
-# calendar printer v3.0
+# 日历打印器 v3.1
+# calendar printer v3.1
 
 # 本地时间
 
