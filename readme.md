@@ -32,3 +32,5 @@
 > [xxdahai](https://www.52pojie.cn/home.php?mod=space&uid=107128) 农历用这个模块：zhdate  发表于 2021-8-13 11:27
 
 #### END
+
+[![Page Views Count](https://badges.toozhao.com/badges/01G6ZJY3322Y59H9X1J3XHN2M5/green.svg)](https://badges.toozhao.com/stats/01G6ZJY3322Y59H9X1J3XHN2M5 "Get your own page views count badge on badges.toozhao.com")
